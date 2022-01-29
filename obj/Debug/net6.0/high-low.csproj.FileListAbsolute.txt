@@ -1,0 +1,15 @@
+D:\school\semester6\classes\highlow\high-low\bin\Debug\net6.0\high-low.exe
+D:\school\semester6\classes\highlow\high-low\bin\Debug\net6.0\high-low.deps.json
+D:\school\semester6\classes\highlow\high-low\bin\Debug\net6.0\high-low.runtimeconfig.json
+D:\school\semester6\classes\highlow\high-low\bin\Debug\net6.0\high-low.dll
+D:\school\semester6\classes\highlow\high-low\bin\Debug\net6.0\ref\high-low.dll
+D:\school\semester6\classes\highlow\high-low\bin\Debug\net6.0\high-low.pdb
+D:\school\semester6\classes\highlow\high-low\obj\Debug\net6.0\high-low.csproj.AssemblyReference.cache
+D:\school\semester6\classes\highlow\high-low\obj\Debug\net6.0\high-low.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\semester6\classes\highlow\high-low\obj\Debug\net6.0\high-low.AssemblyInfoInputs.cache
+D:\school\semester6\classes\highlow\high-low\obj\Debug\net6.0\high-low.AssemblyInfo.cs
+D:\school\semester6\classes\highlow\high-low\obj\Debug\net6.0\high-low.csproj.CoreCompileInputs.cache
+D:\school\semester6\classes\highlow\high-low\obj\Debug\net6.0\high-low.dll
+D:\school\semester6\classes\highlow\high-low\obj\Debug\net6.0\ref\high-low.dll
+D:\school\semester6\classes\highlow\high-low\obj\Debug\net6.0\high-low.pdb
+D:\school\semester6\classes\highlow\high-low\obj\Debug\net6.0\high-low.genruntimeconfig.cache
